@@ -1,11 +1,3 @@
-hi, my name is
-my name is
-my name is
-🍫🍫🍫
-jun suzuki
-
----
-
 ex-opera singer, digital artist & baby dev
 currently enrolled at Epitech Coding Academy
 
