@@ -1,4 +1,4 @@
-ex-opera singer, digital artist & baby dev
+ex-opera singer, digital artist & data analyst in training
 currently enrolled at Epitech Coding Academy
 
 <!---
