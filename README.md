@@ -1,5 +1,4 @@
-ex-opera singer, digital artist & data analyst in training
-currently enrolled at Epitech Coding Academy
+ex-opera singer, digital artist, machine learning and data analysis graduate from Epitech Coding Academy 2021
 
 <!---
 szkjn/szkjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
