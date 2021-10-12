@@ -1,4 +1,4 @@
-### components:
+components:
 + Ex-opera singer
 + Digital, sound and installation artist
 + Machine Learning and Data Analysis graduate (Epitech Coding Academy 2021)
