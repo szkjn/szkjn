@@ -1,18 +1,7 @@
-Ex-opera singer, digital artist and ***Machine Learning & Data Analysis*** graduate (Epitech 2021).
+Hi all !
 
-Currently looking for an ***3-6 months internship*** in Europe to complete my training in a ***data-focused work environment***.
+I'm Jun Suzuki 1/2-french, 1/2-japanese ex-opera singer, with a background in digital, sound and installation art, freshly graduated from Epitech Coding Academy 2021. [More about my atypical journey...](../../../resume)
 
-STACK/
-+ Data: Python, SQL, Power BI, Excel, Dataiku
-+ ML: Sklearn, Tensorflow, Keras, OpenCV
-+ Web: Vue.js, Node.js, Laravel
+I'm currently looking for a **6 months internship** to consolidate my training in a challenging and collaborative work environment. I'm particularly enthusiastic about anything related to **Machine Learning, Computer Vision or NLP.** Anywhere in EU.
 
-LANGUAGES/
-+ French: native
-+ English: fluent
-+ Japanese: B2
-
-<!---
-szkjn/szkjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## > my resume: [jun-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7416757/Jun-Suzuki-Resume.pdf)
