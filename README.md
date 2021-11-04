@@ -1,4 +1,4 @@
-Hi all !
+Hi !
 
 I'm Jun Suzuki 1/2-french, 1/2-japanese ex-opera singer, with a background in digital, sound and installation art, freshly graduated from Epitech Coding Academy 2021. [More about my atypical journey...](../../../resume)
 
