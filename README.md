@@ -1,5 +1,9 @@
 Hi ! I'm a 1/2-french 1/2-japanese ex-opera singer, with a background in digital, sound and installation art, freshly graduated from Epitech Coding Academy 2021. [More about my atypical journey...](../../../resume)
 
-I'm currently looking for a **3 to 6 months internship** to consolidate my training in a challenging and collaborative work environment. I'm particularly enthusiastic about anything related to **Python development, Machine Learning, Computer Vision and NLP.** Available now and anywhere in EU.
+I'm particularly enthusiastic about anything related to **data manipulation, Machine Learning, Computer Vision, NLP** and their application in **humane, ethical and open-source workspaces**.
+
+Currently doing an internship as a Full Stack Developer among the R&D team at [data2i](https://www.data2i.fr/) where I'm building an industry-oriented Human-Machine Interface. From state-of-the-art of relevant technologies to MVP and presentation to potential clients, I'm conducting every step of the project from start to (fingers crossed) finish with the regular oversight of the data scientist of our team.
+
+I'm curious and eager to learn. Yesterday, now and tomorrow.
 
 ## > my resume: [jun-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7416757/Jun-Suzuki-Resume.pdf)
