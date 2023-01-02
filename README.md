@@ -1,9 +1,9 @@
-Hi I'm Jun ! :alien: 1/2-french 1/2-japanese ex-opera singer, with a background in digital, sound and installation art + 2021 Epitech Paris graduate. [More about my atypical journey...](../../../resume)
+As a data engineer with experience in the **healthcare industry**, I have a strong foundation in data mining and a passion for using technology to solve real-world problems. I have experience in **text mining, NLP, and working with sensitive data** while ensuring strict adherence to privacy regulations.
 
-I'm particularly enthusiastic about anything related to **Computer Vision and NLP** and their application in **humane, ethical and open-source workspaces**. Also reccurently having peaks at what's happening in decentralized blockchains ecosystem.
+In my free time, I explore the intersection of **art and technology** through generative audiovisual installations and interactive installations. 
 
-I'm currently working as a data engineer in a public hospital where I'm helping building a data lake to facilitate scientific research in cancer-related pathologies. The first mission I've embarked on :space_invader: is the building of automated pipelines to extract, categorize, pseudonimize textual data from medical reports over the last 30 years, by means of **OCR, regexp and NLP** techniques. 
+I am always striving to uphold **ethical values** in my work and am **excited to connect with like-minded developers** in the tech community.
 
-I'm curious and eager to learn.
+My tech skills include: Python, JavaScript, SQL, Bash, Git, PostgreSQL, Jupyter Hub, Pandas, Numpy, Plotly, Dash, Regular Expressions, Pdfminer, PyMuPdf, NLTK, spaCy, OpenCV, React and Three.js. I am comfortable working in Linux and Windows environments.
 
 ## > my resume: [jun-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7416757/Jun-Suzuki-Resume.pdf)
