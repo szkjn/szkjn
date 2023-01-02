@@ -4,6 +4,12 @@ In my free time, I explore the intersection of **art and technology** through ge
 
 I am always striving to uphold **ethical values** in my work and am **excited to connect with like-minded developers** in the tech community.
 
-My tech skills include: Python, JavaScript, SQL, Bash, Git, PostgreSQL, Jupyter Hub, Pandas, Numpy, Plotly, Dash, Regular Expressions, Pdfminer, PyMuPdf, NLTK, spaCy, OpenCV, React and Three.js. I am comfortable working in Linux and Windows environments.
++ Natural languages : English, French, Japanese
++ Languages : Python, JavaScript, SQL, Bash, Git
++ Environments : Linux, Windows
++ Databases : PostgreSQL, InterSystems IRIS, Pandas, Parquet, H5
++ Text mining & NLP : Regexp, Pdfminer, PyMuPdf, NLTK, spaCy, iKnow
++ Data visualisation : Jupyter Hub, Numpy, Plotly, Dash
++ Computer Vision : OpenCV, React, Three.js
 
 ## > my resume: [jun-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7416757/Jun-Suzuki-Resume.pdf)
