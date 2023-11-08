@@ -12,5 +12,3 @@ I am always striving to uphold **ethical values** in my work and am **excited to
 + Data : Jupyter Hub, Pandas, Numpy, Plotly, Dash
 + Web : React.js, Vue.js, Three.js
 + Computer Vision : OpenCV
-
-## > my resume: [jun-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7416757/Jun-Suzuki-Resume.pdf)
