@@ -5,11 +5,12 @@ In my free time, I explore the intersection of **art and technology** through ge
 I am always striving to uphold **ethical values** in my work and am **excited to connect with like-minded developers** in the tech community.
 
 + Natural languages : English, French, Japanese
-+ Languages : Python, JavaScript, SQL, Bash, Git
++ Languages : Python, SQL, Bash, Git, Javascript, Typescript, Golang
 + Environments : Linux, Windows
-+ Databases : PostgreSQL, InterSystems IRIS, Pandas, Parquet, H5
++ Databases : PostgreSQL, InterSystems IRIS (NoSQL), Parquet, H5
 + Text mining & NLP : Regexp, Pdfminer, PyMuPdf, NLTK, spaCy, iKnow
-+ Data visualisation : Jupyter Hub, Numpy, Plotly, Dash
-+ Computer Vision : OpenCV, React, Three.js
++ Data : Jupyter Hub, Pandas, Numpy, Plotly, Dash
++ Web : React.js, Vue.js, Three.js
++ Computer Vision : OpenCV
 
 ## > my resume: [jun-in-a-nutshell.pdf](https://github.com/szkjn/resume/files/7416757/Jun-Suzuki-Resume.pdf)
