@@ -12,3 +12,7 @@ I am always striving to uphold **ethical values** in my work and am **excited to
 + Web : React.js, Vue.js, Three.js
 + Computer Vision : OpenCV
 + Natural languages : English, French, Japanese
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szkjn&layout=compact&size_weight=0.5&count_weight=0&hide=css,php,blade,vue&exclude_repo=graduation-projects)
