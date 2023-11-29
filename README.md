@@ -6,10 +6,10 @@ I am always striving to uphold **ethical values** in my work and am **excited to
 
 + Languages : Python, SQL, TypeScript, Golang, Bash
 + Environments : Linux, Windows, Git, AWS
-+ Databases : PostgreSQL, InterSystems IRIS (NoSQL)
++ Databases : PostgreSQL, InterSystems IRIS (NoSQL), S3
 + Text mining & NLP : Regexp, Pdfminer, PyMuPdf, NLTK, spaCy, iKnow
-+ Data : Jupyter Hub, Pandas, Numpy, Plotly, Dash
-+ Web : React.js, Vue.js, Three.js
++ Data : Pandas, PySpark, Numpy, Plotly, Dash
++ Web : React, Vue, Svelte, Three.js
 + Computer Vision : OpenCV
 + Natural languages : English, French, Japanese
 
